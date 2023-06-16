@@ -5,14 +5,12 @@ This repository contains the code for the event detection task in the Kaggle com
 ## Usage
 
 To use the notebook `transformer-based.ipynb` in this repository, follow these steps:
-
-1. Go to the Kaggle competition page [ITMO Acoustic Event Detection 2023](https://www.kaggle.com/competitions/itmo-acoustic-event-detection-2023) and join the competition.
-2. Download the dataset provided by the competition organizers.
-3. Log in to Kaggle and go to the [Kaggle Notebooks](https://www.kaggle.com/notebooks) page.
-4. Click on "New Notebook" and choose the "Notebook" option.
-5. Select the "File" tab and click on "Upload Notebook".
-6. Choose the `transformer-based.ipynb` file from your local machine and upload it to Kaggle.
-7. After the notebook is uploaded, you can open and run it on the Kaggle platform.
+1. Log in to Kaggle and go to the [Kaggle Notebooks](https://www.kaggle.com/notebooks) page.
+2. Go to the Kaggle competition page [ITMO Acoustic Event Detection 2023](https://www.kaggle.com/competitions/itmo-acoustic-event-detection-2023) and join the competition.
+3. Click on "New Notebook" and choose the "Notebook" option.
+4. Select the "File" tab and click on "Upload Notebook".
+5. Choose the `transformer-based.ipynb` file from your local machine and upload it to Kaggle.
+6. After the notebook is uploaded, you can open and run it on the Kaggle platform.
 
 Note: The necessary dataset files should be provided by the competition organizers, and you need to make sure to place them in the appropriate location within the Kaggle environment.
 
